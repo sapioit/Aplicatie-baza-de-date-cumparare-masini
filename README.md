@@ -1,6 +1,6 @@
 # Aplicatie-baza-de-date-cumparare-masini
 
-Required files: [idex.php](https://github.com/sapioit/Aplicatie-baza-de-date-cumparare-masini/blob/main/index.php)  [structura tabelelor.sql](https://github.com/sapioit/Aplicatie-baza-de-date-cumparare-masini/blob/main/structura%20tabelelor.sql)
+Required files: [index.php](https://github.com/sapioit/Aplicatie-baza-de-date-cumparare-masini/blob/main/index.php)  [structura tabelelor.sql](https://github.com/sapioit/Aplicatie-baza-de-date-cumparare-masini/blob/main/structura%20tabelelor.sql)
 
 [Video link](https://github.com/sapioit/Aplicatie-baza-de-date-cumparare-masini/blob/main/capturi%20de%20ecran.mp4?raw=true)
 ![Animated Image](https://github.com/sapioit/Aplicatie-baza-de-date-cumparare-masini/raw/main/capturi-de-ecran.webp)
